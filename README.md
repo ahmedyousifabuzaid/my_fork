@@ -1,7 +1,7 @@
 2021-06-18: Vitor's Super Mario World widescreen patch is available: https://github.com/VitorVilela7/wide-snes#download
 
 # bsnes-hd *beta 10.6*
-
+ddff
 - [downloads](https://github.com/DerKoun/bsnes-hd/releases) for the latest betas (there are only beta) / also on the libretro auto-updater
 - [GitHub project](https://github.com/DerKoun/bsnes-hd) for source code, issues, feature requests, ...
 - [Reddit](https://www.reddit.com/r/emulation/search/?q=bsnes-hd&restrict_sr=1&sort=new) for announcements and discussions on *r/emulation*
